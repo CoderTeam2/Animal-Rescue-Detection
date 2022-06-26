@@ -1,0 +1,39 @@
+body{
+    background-image: url("Bg.jpg");
+}
+
+.heading{
+    background-color: aqua;
+    font-size: 25px;
+    margin-top: 0;
+    opacity: 0.7;
+}
+#obj{
+    border-radius: 5px;
+}
+span{
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    border-radius: 10px;
+}
+#status2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.footer{
+    width: 100%;
+    line-height: 2;
+    font-size: 20px;
+    bottom: 0;
+    position: fixed;
+    background-color: yellow;
+}
